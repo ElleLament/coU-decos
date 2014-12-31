@@ -62,10 +62,10 @@ The vast majority of these were converted using scripts and have not had human e
   - [ ] Esquibeth
   - [X] Firebog
   - [X] Groddle
-  - [ ] Groddle Arid
+  - [X] Groddle Arid
   - [ ] Homes - Alakol
-  - [ ] Homes - Forest
-  - [ ] Homes - Heights
+  - [X] Homes - Forest
+  - [X] Homes - Heights
   - [ ] Homes - Meadow
   - [X] Ilmenskie
   - [X] Ix
@@ -90,3 +90,4 @@ The vast majority of these were converted using scripts and have not had human e
   - [ ] Find and fix white line SVG boundary artifacts
   - [ ] Condense number of bitmaps, update bitmap links in SVGs
   - [ ] Fix animated assets
+  - [ ] Compress/Simplify SVGs where possible
